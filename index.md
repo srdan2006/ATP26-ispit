@@ -5,7 +5,7 @@ This is a user experience guide
 [LICENSE](/LICENSE.md)
 [CHANGELOG](/CHANGELOG.md)
 
-<iframe width="951" height="535" src="https://www.youtube.com/embed/wIuVvCuiJhU" title="world&#39;s shortest UI/UX design course" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[Pogledaj video na YouTube-u](https://www.youtube.com/watch?v=wIuVvCuiJhU)
 
 ## User Experience Design (UXD)
 
